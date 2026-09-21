@@ -136,4 +136,4 @@ require (
 	sigs.k8s.io/structured-merge-diff/v4 v4.2.3 // indirect
 )
 
-replace github.com/digitalocean/godo => github.com/sgupta832/godo v0.0.0-20260918093352-d5df8626efd7
+replace github.com/digitalocean/godo => github.com/sgupta832/godo v0.0.0-20260921174750-c036f89a03f3
